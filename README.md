@@ -13,9 +13,11 @@ The RMS Titanic was a British passenger liner that sank in the North Atlantic Oc
 We use Naive Bayes Classifier to filter spam messages from non spam messages
 Metrics of Success
 
+## Metric for success
 We use AUC_ROC Score, confusion matrix and classification report as the metrics for testing perfomance of our models.
 Understanding the context
 
+## Understanding the context
 Nowadays, e-mail provides many ways to send millions of advertisement at no cost to sender. As a result, many unsolicited bulk e-mail, also known as spam e-mail spread widely and become serious threat to not only the Internet but also to society. For example, when user received large amount of e-mail spam, the chance of the user forgot to read a non-spam message increase. As a result, many e-mail readers have to spend their time removing unwanted messages. E-mail spam also may cost money to users with dial-up connections, waste bandwidth, and may expose minors to unsuitable content. Over the past many years, many approaches have been provided to block e-mail spam. We will use Na¨ıve Bayes algorithm to create a model that acurately filters spam emails from non spam emails and classifiesthem accordingly.
 
 @noahkandie.gmail.com 2021
